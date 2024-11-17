@@ -5,4 +5,5 @@ type UserDao struct {
 	Age         int    `json:"age"`
 	PhoneNumber string `json:"phoneNumber"`
 	Address     string `json:"address"`
+	Message     string `json:"message"`
 }
